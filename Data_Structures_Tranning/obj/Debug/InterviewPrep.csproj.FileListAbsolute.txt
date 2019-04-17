@@ -1,2 +1,0 @@
-C:\Users\Galina\Documents\Visual Studio 2015\Data_Structures_Tranning\Data_Structures_Tranning\obj\Debug\Data_Structures_Tranning.exe
-C:\Users\Galina\Documents\Visual Studio 2015\Data_Structures_Tranning\Data_Structures_Tranning\obj\Debug\Data_Structures_Tranning.pdb
